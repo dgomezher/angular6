@@ -1,0 +1,3 @@
+class AppSample extends HTMLElement{
+    
+}
